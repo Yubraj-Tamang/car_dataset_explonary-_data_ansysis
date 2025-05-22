@@ -1,0 +1,9 @@
+# necessary libraries
+pandas
+numpy
+openpyxl
+# data profiling EDA 
+ProfileReport 
+# visualization
+matplotlib.pyplot
+seaborn
